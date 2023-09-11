@@ -2,6 +2,7 @@
 Pull generated gql queries into a insomnia-importable file
 
 options:
+
 -p / --path : path to the generated gql directory
 
 -o / --out : path to the output file
