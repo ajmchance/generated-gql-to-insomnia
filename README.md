@@ -3,9 +3,13 @@ Pull generated gql queries into a insomnia-importable file
 
 options:
 -p / --path : path to the generated gql directory
+
 -o / --out : path to the output file
+
 -s / --secret : secret key to be put in every query
+
 -n / --name : name of the insomnia request collection
+
 -u / --url : default url
 
 example usage :
